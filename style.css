@@ -1,0 +1,9 @@
+body {
+  transition: 0.2s;
+}
+
+.cont {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
